@@ -15,5 +15,6 @@ After cloning go in the cloned folder and open the index.html file.
 
 The output shall display in a browser.
 
+## Demonstration
 
-<video src="https://github.com/shahzaibk23/Chasing-Dots-JS/blob/master/demonstration.mp4" />
+<img src="https://github.com/shahzaibk23/Chasing-Dots-JS/blob/master/demonstration.gif">
