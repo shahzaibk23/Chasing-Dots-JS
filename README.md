@@ -14,3 +14,6 @@ git clone https://github.com/shahzaibk23/Chasing-Dots-JS
 After cloning go in the cloned folder and open the index.html file.
 
 The output shall display in a browser.
+
+
+<video src="https://github.com/shahzaibk23/Chasing-Dots-JS/blob/master/demonstration.mp4" />
